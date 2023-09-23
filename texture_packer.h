@@ -32,6 +32,7 @@ SOFTWARE.
 #include "core/math/color.h"
 
 #include "scene/resources/texture.h"
+#include "scene/resources/image_texture.h"
 #include <vector>
 
 #include "rectpack2D/pack.h"

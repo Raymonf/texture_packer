@@ -1,7 +1,9 @@
 #pragma once
 #include <vector>
 
+#include "core/object/ref_counted.h"
 #include "scene/resources/texture.h"
+#include "scene/resources/atlas_texture.h"
 
 /* of your interest:
 

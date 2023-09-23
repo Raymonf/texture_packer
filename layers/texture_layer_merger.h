@@ -30,6 +30,8 @@ SOFTWARE.
 
 #include "core/math/rect2.h"
 #include "scene/resources/texture.h"
+#include "scene/resources/image_texture.h"
+#include "scene/resources/atlas_texture.h"
 
 #include "core/version.h"
 
